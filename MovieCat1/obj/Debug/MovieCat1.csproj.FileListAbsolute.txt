@@ -1,0 +1,184 @@
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\DeliteWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\DeliteWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\DeliteWindow.g.cs
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\DeliteWindow.baml
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\User\Visual studio\Movie catalog projekat\Radni WPF\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+F:\161224radni\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+F:\161224radni\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+F:\161224radni\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\DeliteWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\DeliteWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\Polaznik15\Documents\Visual Studio 2015\Projects\Movie catalog\Movie catalog projekat\Radni WPF\MovieCatalpg - Copy\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+F:\Smart rad u školi\Movie Catalog proj170124\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+F:\Smart rad u školi\Movie Catalog proj170124\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+F:\Smart rad u školi\Movie Catalog proj170124\Ovaj program ne menjati\Oliver 161224 movie\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+C:\Users\User\Visual studio\GMovieCatalog\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+C:\Users\DOIT_DOTNET_USER15\Documents\Visual Studio 2015\Projects\VladimirZ\Movie Catalog proj\GMovieCatalog\MovieCat1\MovieCat1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\Movie catalog projekat\170207\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+G:\Movie catalog projekat\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+G:\Movie catalog projekat\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\User\Visual studio\GMovieCatalog\170207\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+C:\Users\User\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.pdb
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csprojResolveAssemblyReference.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\ADDWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\EditWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MainWindow.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\App.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.cache
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1_MarkupCompile.lref
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\ADDWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\EditWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MainWindow.baml
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.g.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.Properties.Resources.resources
+D:\Moja Dokumenta\1 Vladimir\Visual studio\GMovieCatalog\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.csproj.GenerateResource.Cache
+F:\Programiranje\Odbir\Movie catalog projekat\Ovaj program ne menjati\170207 - xml\MovieCat1\MovieCat1\bin\Debug\MovieCat1.exe.config
+F:\Programiranje\Odbir\Movie catalog projekat\Ovaj program ne menjati\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.exe
+F:\Programiranje\Odbir\Movie catalog projekat\Ovaj program ne menjati\170207 - xml\MovieCat1\MovieCat1\obj\Debug\MovieCat1.pdb
